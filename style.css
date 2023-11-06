@@ -1,0 +1,41 @@
+html {
+ 
+    background-image: url(assets/alina-grubnyak-ZiQkhI7417A-unsplash.jpg);
+    background-size: cover;
+  }
+  
+  nav {
+  
+    background-color: #b3b3b3;
+    position: fixed;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left:15px;
+  
+  
+  }
+  
+  .material-symbols-outlined {
+    color: black;
+    font-variation-settings:
+      'FILL' 0,
+      'wght' 50px,
+      'GRAD' 0,
+      'opsz' 24,
+  }
+  
+  strong {
+    font-size: 50px;
+    color: black;
+  }
+   article{
+     background-color: #cfcfcf
+     
+     
+   }
+  
+      
+  
